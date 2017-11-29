@@ -4,7 +4,7 @@ A super light weight cross browser flex box CSS library.
 
 ### Installing
 
-Just add the library to your web app/site.
+Donwload the file and it to your web app/site.
 
 ## Usage
 
